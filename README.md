@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  My Project Title
+  MealPlanner
 </h1>
 <p align="center">
   <img src="image.png" alt="Project Cover Image" width="400"/>
