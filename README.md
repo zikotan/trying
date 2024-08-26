@@ -1,6 +1,6 @@
 
-<p align="center">
-  <strong># My Project Title</strong>
+<p align="center" style="font-size: 2em; font-weight: bold;">
+  My Project Title
 </p>
 
 <p align="center">
