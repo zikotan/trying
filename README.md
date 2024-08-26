@@ -20,8 +20,8 @@ The Nutritional Meal Planner allows users to input their calorie goals and the n
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nutritional-meal-planner.git
-   cd nutritional-meal-planner
+   git clone https://github.com/zikotan/MealPlanner.git
+   cd MealPlanner
    ```
 
 2. **Install Dependencies:**
