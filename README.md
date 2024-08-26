@@ -1,5 +1,8 @@
 
-# Nutritional MealPlanner
+
+<p align="center">
+  # Nutritional MealPlanner
+</p>
 
 <p align="center">
   <img src="image.png" alt="Project Cover Image" width="400"/>
