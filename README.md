@@ -76,11 +76,12 @@ The project follows the MVC (Model-View-Controller) architecture pattern using L
 
 ## Technologies Used
 
-Front-End: HTML, CSS, JavaScript, Bootstrap – For a responsive and interactive UI.
-Back-End: PHP with Laravel, JavaScript – For server-side logic, Blade templating, and handling user registration and login functionality.
-Databases: MySQL – Managed with migrations for user data; JSON – For storing nutritional information.
-PDF Generation: HTML2PDF – For creating PDF meal plans.
-Tools and Services: GitHub – For version control; XAMPP – For providing a local development environment with Apache, MySQL, and PHP.
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap – For a responsive and interactive UI.
+- **Back-End:** PHP with Laravel, JavaScript – For server-side logic, Blade templating, and handling user registration and login functionality.
+- **Databases:** MySQL – Managed with migrations for user data; JSON – For storing nutritional information.
+- **PDF Generation:** HTML2PDF – For creating PDF meal plans.
+- **Tools and Services:** GitHub – For version control; XAMPP – For providing a local development environment with Apache, MySQL, and PHP.
+
 
 ## Future Enhancements
 
