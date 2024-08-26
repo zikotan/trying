@@ -1,7 +1,6 @@
 
 <h1 align="center">
   MealPlanner
-  <img src="image.png" alt="Project Cover Image" width="100%"/>
 </h1>
 <p align="center">
   <img src="image.png" alt="Project Cover Image" width="100%"/>
