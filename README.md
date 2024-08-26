@@ -88,3 +88,8 @@ The project follows the MVC (Model-View-Controller) architecture pattern using L
 - **Macronutrient Input:** Plan to integrate detailed macronutrient input options for more specific dietary planning.
 - **Meal Customization:** Allow users to select and add meals to their personal list, enhancing customization.
 - **User Interface Refinements:** Continuously improve the UI based on user feedback to enhance the user experience.
+
+
+
+
+  For the default Laravel setup instructions, see [Laravel README](this.md).
