@@ -1,8 +1,7 @@
 
-<p align="center" style="font-size: 2em; font-weight: bold;">
+<h1 align="center">
   My Project Title
-</p>
-
+</h1>
 <p align="center">
   <img src="image.png" alt="Project Cover Image" width="400"/>
 </p>
