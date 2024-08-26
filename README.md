@@ -1,3 +1,4 @@
+
 # Nutritional Meal Planner
 
 A web application designed to help users create personalized meal plans based on their dietary needs. Users can input their daily calorie goals and the number of meals to generate a customized meal plan.
@@ -21,3 +22,68 @@ The Nutritional Meal Planner allows users to input their calorie goals and the n
    ```bash
    git clone https://github.com/your-username/nutritional-meal-planner.git
    cd nutritional-meal-planner
+   ```
+
+2. **Install Dependencies:**
+   Ensure you have [Composer](https://getcomposer.org/) and [Node.js](https://nodejs.org/) installed, then run:
+   ```bash
+   composer install
+   npm install
+   ```
+
+3. **Set Up Environment Variables:**
+   Create a `.env` file in the root directory and configure your database settings and other environment variables. Use `.env.example` as a reference.
+
+4. **Generate Application Key:**
+   ```bash
+   php artisan key:generate
+   ```
+
+5. **Run Migrations:**
+   ```bash
+   php artisan migrate
+   ```
+
+6. **Serve the Application:**
+   ```bash
+   php artisan serve
+   ```
+
+7. **Open the Application:**
+   Open your browser and navigate to `http://localhost:8000`.
+
+## Usage Guidelines
+
+1. **Login/Register:**
+   Create an account or log in with your credentials.
+
+2. **Input Calorie Goals and Meal Number:**
+   Enter your desired daily calorie intake and the number of meals you wish to have.
+
+3. **Generate Meal Plan:**
+   Click on the 'Generate Plan' button to see a customized meal plan based on your inputs.
+
+4. **Download Meal Plan:**
+   Use the 'Download PDF' button to save your meal plan as a PDF file.
+
+## Project Architecture
+
+The project follows the MVC (Model-View-Controller) architecture pattern using Laravel. The main components are:
+
+- **Models:** Represent the database tables and business logic (e.g., Meal, User).
+- **Controllers:** Handle requests, process input, and return responses (e.g., MealController, AuthController).
+- **Views:** Blade templates used for rendering HTML (e.g., home.blade.php, meal.blade.php).
+
+## Technologies Used
+
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap
+- **Back-end:** PHP with Laravel, Blade templates
+- **Database:** Options for Text files, MySQL, SQL
+- **PDF Generation:** HTML2PDF for generating downloadable PDFs
+- **Additional Tools:** GitHub for version control
+
+## Future Enhancements
+
+- **Macronutrient Input:** Plan to integrate detailed macronutrient input options for more specific dietary planning.
+- **Meal Customization:** Allow users to select and add meals to their personal list, enhancing customization.
+- **User Interface Refinements:** Continuously improve the UI based on user feedback to enhance the user experience.
