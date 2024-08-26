@@ -1,5 +1,5 @@
 
-# Nutritional Meal Planner
+# Nutritional MealPlanner
 
 A web application designed to help users create personalized meal plans based on their dietary needs. Users can input their daily calorie goals and the number of meals to generate a customized meal plan.
 
