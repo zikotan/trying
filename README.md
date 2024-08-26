@@ -19,7 +19,7 @@ A web application designed to help users create personalized meal plans based on
 
 ## Project Overview
 
-The Nutritional Meal Planner allows users to input their calorie goals and the number of meals to generate a meal plan with a breakdown of total macronutrient values (proteins, fats, and carbohydrates). The application also supports downloading the meal plan as a PDF for easy reference.
+The Nutritional MealPlanner allows users to input their calorie goals and the number of meals to generate a meal plan with a breakdown of total macronutrient values (proteins, fats, and carbohydrates). The application also supports downloading the meal plan as a PDF for easy reference.
 
 ## Setup Instructions
 
@@ -95,6 +95,6 @@ The project follows the MVC (Model-View-Controller) architecture pattern using L
 - **User Interface Refinements:** Continuously improve the UI based on user feedback to enhance the user experience.
 
 
+## Laravel Setup Instructions
 
-
-  For the default Laravel setup instructions, see [Laravel README](this.md).
+  For the default Laravel setup instructions, see [Laravel README](Laravel_README.md).
